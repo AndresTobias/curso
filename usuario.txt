@@ -1,0 +1,27 @@
+agrega un repocitorio externo 
+git remote add origin https://github.com/AndresTobias/YoProgramo.git 
+pide nombre de usuario y un token
+
+git push -u origin master
+agrega al repositorio los archivos
+pide nombre de usuario y un token
+
+muestra las ramas
+git branch
+
+muestra archivos sin agregar en rojo
+git status
+
+agrega los archivos en rojo a verde
+ git add .
+git add nombredearchivo.xxx
+
+
+
+pasa los archivo verdes al repo local
+git commit
+
+los tira al remoto
+git push
+pide nombre de usuario y un token
+ vscode://vscode.github-authentication/did-authenticate?windowid=1&code=7cfa6b57e226def5f998&state=4843b521-4dca-4872-858a-9aca1a5d6d1e
